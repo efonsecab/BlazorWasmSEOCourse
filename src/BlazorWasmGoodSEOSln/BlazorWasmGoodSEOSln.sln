@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmGoodSEO.Server", "BlazorWasmGoodSEO\Server\BlazorWasmGoodSEO.Server.csproj", "{F0290911-179F-4478-A496-4FE53FBB0397}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmGoodSEO.Server", "BlazorWasmGoodSEO\Server\BlazorWasmGoodSEO.Server.csproj", "{F0290911-179F-4478-A496-4FE53FBB0397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmGoodSEO.Client", "BlazorWasmGoodSEO\Client\BlazorWasmGoodSEO.Client.csproj", "{507816BD-F3C0-40E2-916C-30F88BB99613}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmGoodSEO.Client", "BlazorWasmGoodSEO\Client\BlazorWasmGoodSEO.Client.csproj", "{507816BD-F3C0-40E2-916C-30F88BB99613}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmGoodSEO.Shared", "BlazorWasmGoodSEO\Shared\BlazorWasmGoodSEO.Shared.csproj", "{A4196496-A6AC-4F15-96D4-B55EE95D061C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmGoodSEO.Shared", "BlazorWasmGoodSEO\Shared\BlazorWasmGoodSEO.Shared.csproj", "{A4196496-A6AC-4F15-96D4-B55EE95D061C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
