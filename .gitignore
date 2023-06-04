@@ -397,3 +397,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /src/BlazorWasmBadSEOSln/BlazorWasmBadSEO/Server/Properties/ServiceDependencies/BlazorWasmBadSEO - Web Deploy/profile.arm.json
+/src/BlazorWasmGoodSEOSln/BlazorWasmGoodSEO/Server/Properties/ServiceDependencies/BlazorWasmGoodSEO - Web Deploy/profile.arm.json
